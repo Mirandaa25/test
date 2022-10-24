@@ -1,5 +1,5 @@
-Identitas
+Identitas Mahasiswa
 Nama : Miranda Ibrahim
 Nim : 531420028
-Fakultas : Teknik
 Prodi : Sistem Informasi
+Skill : tidak tau
